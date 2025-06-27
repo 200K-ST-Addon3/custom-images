@@ -4,7 +4,7 @@ dist: focal
 
 vm:
   create:
-    name: 200K-ST-Addon3-i3
+    name: 200K-ST-Addon3-i4
 
 script:
   - echo "Creating custom file"
